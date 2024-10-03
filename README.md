@@ -1,1 +1,3 @@
 # PRODIGY_WD_02
+Stopwatch
+This project is a fully functional stopwatch built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the timer with an intuitive user interface. The stopwatch accurately tracks time in hours, minutes, seconds, and milliseconds, ensuring precise timing for various use cases. JavaScript was utilized to manage the timer functionality, including interval tracking and state management, while CSS was employed to enhance the visual design, providing a user-friendly experience. This project demonstrates my skills in front-end development, DOM manipulation, and responsive web design.
